@@ -1,0 +1,28 @@
+{
+  "name": "yields-select",
+  "description": "modern <select>.",
+  "version": "0.5.1",
+  "keywords": [
+    "select",
+    "chosen",
+    "select2"
+  ],
+  "main": "index.js",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {
+    "ianstormtaylor-previous-sibling": "git://github.com/npmcomponent/ianstormtaylor-previous-sibling.git",
+    "ianstormtaylor-next-sibling": "git://github.com/npmcomponent/ianstormtaylor-next-sibling.git",
+    "component-debounce": "git://github.com/npmcomponent/component-debounce.git",
+    "component-pillbox": "git://github.com/npmcomponent/component-pillbox.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-keyname": "git://github.com/npmcomponent/component-keyname.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}

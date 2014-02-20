@@ -1,0 +1,1 @@
+module.exports = '<div class=\'select select-single\'>\n  <div class=\'select-box\'>\n    <input type=\'text\' class=\'select-input\'>\n  </div>\n  <div class=\'select-dropdown\' hidden>\n    <ul class=\'select-options\'></ul>\n  </div>\n</div>\n';

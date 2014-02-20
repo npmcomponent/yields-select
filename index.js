@@ -2,18 +2,18 @@
  * dependencies
  */
 
-var previous = require('previous-sibling');
+var previous = require('ianstormtaylor-previous-sibling');
 var template = require('./template.html');
-var next = require('next-sibling');
-var debounce = require('debounce');
-var Pillbox = require('pillbox');
-var classes = require('classes');
-var Emitter = require('emitter');
-var keyname = require('keyname');
-var events = require('events');
-var domify = require('domify');
-var query = require('query');
-var each = require('each');
+var next = require('ianstormtaylor-next-sibling');
+var debounce = require('component-debounce');
+var Pillbox = require('component-pillbox');
+var classes = require('component-classes');
+var Emitter = require('component-emitter');
+var keyname = require('component-keyname');
+var events = require('component-events');
+var domify = require('component-domify');
+var query = require('component-query');
+var each = require('component-each');
 var tpl = domify(template);
 
 /**
